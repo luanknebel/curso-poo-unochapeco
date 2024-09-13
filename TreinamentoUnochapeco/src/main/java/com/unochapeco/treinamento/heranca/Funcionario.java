@@ -10,6 +10,11 @@ public class Funcionario {
 		return nome;
 	}
 
+	public void calcularfFolhaPagamento() {
+		
+	}
+	
+	
 	public void setNome(String nome) {
 		this.nome = nome;
 	}

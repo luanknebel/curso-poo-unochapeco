@@ -7,4 +7,13 @@ public class ArquivoBancoService implements ArquivoService{
 		System.out.println("salvando arquivo no banco de dados");
 	}
 
+	@Override
+	public void deletar() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public void getId() {
+
+	}
 }

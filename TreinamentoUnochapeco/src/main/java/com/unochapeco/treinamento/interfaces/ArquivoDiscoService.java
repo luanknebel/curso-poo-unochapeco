@@ -7,4 +7,10 @@ public class ArquivoDiscoService implements ArquivoService{
 		System.out.println("salvando arquivo no disco");
 	}
 
+	@Override
+	public void deletar() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

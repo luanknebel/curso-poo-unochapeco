@@ -7,4 +7,10 @@ public class ArquivoNuvemService implements ArquivoService{
 		System.out.println("salvando arquivo na nuvem");
 	}
 
+	@Override
+	public void deletar() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

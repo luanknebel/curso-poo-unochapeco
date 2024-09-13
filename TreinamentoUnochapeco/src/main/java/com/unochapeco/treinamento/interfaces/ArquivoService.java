@@ -4,4 +4,6 @@ public interface ArquivoService {
 
 	void salvarArquivo(byte[] content);
 	
+	void deletar();
+	
 }
